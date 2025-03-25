@@ -1,0 +1,9 @@
+requests
+
+ecdsa
+
+base58
+
+pycryptodome
+
+pip install requests ecdsa base58 pycryptodome
