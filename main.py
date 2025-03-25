@@ -24,7 +24,7 @@ def verifying_key_to_addr(key):
 
 
 # Замени 'api_key' на твой токен с сайта https://trongrid.io/
-api_key = '5ff7e2a3-2430-4896-8070-a96361aae994'
+api_key = ''
 
 # api_key2 = ''
 # api_key3 = ''
