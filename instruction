@@ -1,0 +1,4 @@
+1) Downoald python from the official website
+2)Downoald libraries from file:requirements.txt
+3)Get the api key from the trongrid.io website and write it in the script itself
+4)run the program with the command python main.py
